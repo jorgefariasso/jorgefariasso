@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A00F4&height=220&section=header&text=Jorge%20Farias%20Soto&fontSize=42&fontColor=E5DEFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A00F4&height=200&section=header&text=Jorge%20Farias%20Soto&fontSize=40&fontColor=E5DEFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Inform%C3%A1tico%20%7C%20Backend%20%C2%B7%20Full%20Stack%20%C2%B7%20Mobile&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ingeniero+Inform%C3%A1tico+%7C+UTFSM;Backend+%2B+Mobile+%2B+Full+Stack+Developer;Automatizaci%C3%B3n+de+Procesos+%7C+RPA;Construyendo+software+escalable+y+limpio" alt="Typing SVG" />
 
 <br/>
 
 ![Academic](https://img.shields.io/badge/Ingenier%C3%ADa_Inform%C3%A1tica-UTFSM-6A00F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/San_Pedro_de_la_Paz-Chile-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Chile-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-farías-9566a7290)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.ignacio.farias.soto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgefariasso)
 
 <br/>
 
@@ -32,19 +30,25 @@
 
 ```
 const jorge = {
-    role: "Software Engineer | Full Stack & Mobile Developer",
+    role: "Ingeniero Informático | Backend · Full Stack · Mobile Developer",
     education: "Ingeniería Informática — Universidad Técnica Federico Santa María (2022–2026)",
-    focus: ["Backend Development", "Mobile Apps (React Native)", "Full Stack Web", "Process Automation (RPA)"],
-    mindset: "Ship clean, scalable, maintainable software",
+    focus: ["Backend Development", "Full Stack Web", "Mobile Apps (React Native)", "RPA / Automatización de Procesos"],
+    mindset: "Sistemas escalables, APIs REST seguras, código de calidad",
     currentlyOpenTo: ["Backend Roles", "Full Stack Roles", "Mobile Development Roles"]
 };
 ```
 
-Ingeniero Informático próximo a titularse de la **Universidad Técnica Federico Santa María**, con experiencia construyendo aplicaciones **backend robustas**, **apps móviles multiplataforma** y **soluciones full stack** de extremo a extremo. También cuento con experiencia en **automatización de procesos (RPA)**, optimizando flujos de trabajo reales para reducir tareas manuales.
+Ingeniero Informático de la **Universidad Técnica Federico Santa María**, con experiencia real en **desarrollo backend**, **desarrollo móvil** y **web full stack**, además de **automatización de procesos (RPA)**. He participado en la construcción de sistemas escalables, APIs REST seguras y optimización de bases de datos — con foco en análisis, responsabilidad y entrega de código de calidad.
 
-Me enfoco en escribir código limpio, arquitecturas escalables y en entregar productos que resuelven problemas concretos — con mentalidad de *product engineer*, no solo de implementador.
+<br/>
 
-**🟣 Open To:** oportunidades como Backend Developer, Full Stack Developer o Mobile Developer.
+<div align="center">
+
+### 🟣 Abierto a oportunidades como
+
+**`Backend Developer`**   ·   **`Full Stack Developer`**   ·   **`Mobile Developer`**
+
+</div>
 
 <br/>
 
@@ -54,19 +58,19 @@ Me enfoco en escribir código limpio, arquitecturas escalables y en entregar pro
 
 <div align="center">
 
-**Languages**
+**Lenguajes**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
 
-**Frontend**
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,html,css&theme=dark" />
 
-**Backend & Databases**
+**Backend & Bases de Datos**
 
 <img src="https://skillicons.dev/icons?i=spring,django,nodejs,postgres,mysql,sqlite&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**Herramientas & Cloud**
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,postman&theme=dark" />
 
@@ -76,15 +80,15 @@ Me enfoco en escribir código limpio, arquitecturas escalables y en entregar pro
 
 ---
 
-## 🤖 Technical Expertise
+## 🛠️ Technical Expertise
 
-| Domain | Proficiency | Details |
+| Área | Nivel | Detalle |
 |---|:---:|---|
-| Backend Development | ⭐⭐⭐⭐ | APIs REST con Spring Boot y Django, modelado de bases de datos relacionales |
-| Mobile Development | ⭐⭐⭐⭐ | Apps multiplataforma con React Native + Expo |
-| Full Stack Development | ⭐⭐⭐⭐ | Integración frontend (React) + backend (Node.js / Spring Boot / Django) |
-| Process Automation (RPA) | ⭐⭐⭐ | Automatización de procesos de negocio con RocketBot |
-| Cloud & Deployment | ⭐⭐⭐ | Despliegue en AWS y Vercel |
+| Backend Development | ⭐⭐⭐⭐ | APIs REST, autenticación con JWT, lógica de negocio, Spring Boot / Django |
+| Full Stack Development | ⭐⭐⭐⭐ | Integración frontend-backend, formularios dinámicos, visualización de datos (gráficos radiales) |
+| Mobile Development | ⭐⭐⭐⭐ | React Native + Expo, arquitectura offline-first, sincronización de datos |
+| Bases de Datos | ⭐⭐⭐ | Modelado y optimización en PostgreSQL, MySQL, SQL Server, SQLite |
+| Automatización de Procesos (RPA) | ⭐⭐⭐ | Bots de automatización administrativa con RocketBot |
 
 <br/>
 
@@ -93,42 +97,39 @@ Me enfoco en escribir código limpio, arquitecturas escalables y en entregar pro
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📦 TaskNet — Gestor de Órdenes de Trabajo</b></summary>
+<summary><b>📦 Aplicación Móvil de Gestión de Órdenes de Trabajo</b></summary>
 <br/>
 
-Aplicación móvil para la gestión y seguimiento de órdenes de trabajo, orientada a equipos que necesitan asignar, priorizar y monitorear tareas en tiempo real desde el teléfono.
+*Jun 2025 – Dic 2025*
 
 | Aspecto | Detalle |
 |---|---|
 | **Stack** | React Native, TypeScript, Expo |
-| **Escala** | Uso interno / equipos operativos |
-| **Rendimiento** | Navegación fluida y carga optimizada de listas de órdenes |
-| **Seguridad** | Manejo de sesiones y control de acceso por usuario |
-| **Impacto** | Centraliza la creación y seguimiento de órdenes de trabajo, reduciendo el uso de canales informales (papel/mensajería) |
+| **Arquitectura** | Offline-first, con almacenamiento local |
+| **Sincronización** | Automática de datos al recuperar conectividad |
+| **Funcionalidad** | Gestión de órdenes de trabajo, integración de APIs REST, firmas digitales |
+| **Impacto** | Disponibilidad e integridad de datos en entornos con conectividad limitada |
 | **Repositorio** | 🔗 *Próximamente* |
 
-TaskNet nace para digitalizar la gestión de órdenes de trabajo, reemplazando procesos manuales por un flujo estructurado, trazable y accesible desde dispositivos móviles, con foco en usabilidad para equipos de campo.
+Aplicación diseñada para operar en condiciones de conectividad inestable, priorizando que ningún dato se pierda mientras el usuario trabaja offline y sincronizando automáticamente al reconectar.
 
 </details>
 
 <details>
-<summary><b>🔄 FlowBot — Plataforma de Automatización de Procesos</b></summary>
+<summary><b>📊 Plataforma Web de Diagnóstico y Evaluación de Desempeño Institucional</b></summary>
 <br/>
 
-*(Proyecto de ejemplo — reemplázalo por uno real o elimínalo)*
-
-Plataforma web para diseñar y ejecutar flujos de automatización de tareas repetitivas de negocio, con panel de monitoreo de ejecuciones y alertas ante fallos.
+*Dic 2024 – Feb 2025*
 
 | Aspecto | Detalle |
 |---|---|
-| **Stack** | Django, PostgreSQL, React, Docker |
-| **Escala** | Prototipo funcional / proyecto personal |
-| **Rendimiento** | Ejecución de flujos en background con colas de tareas |
-| **Seguridad** | Autenticación por token y roles de usuario |
-| **Impacto** | Reducción estimada de tiempo en tareas repetitivas de back-office |
-| **Repositorio** | 🔗 *Por definir* |
+| **Stack** | Full Stack (frontend + backend), APIs REST |
+| **Seguridad** | Autenticación con JSON Web Tokens (JWT) |
+| **Funcionalidad** | Formularios dinámicos, lógica de negocio, visualización de datos mediante gráficos radiales |
+| **Impacto** | Apoyo directo a la toma de decisiones institucionales mediante procesamiento y reportes de datos |
+| **Repositorio** | 🔗 *Próximamente* |
 
-FlowBot fue pensado como una alternativa ligera a herramientas de RPA comerciales, permitiendo definir flujos de automatización mediante una interfaz visual simple conectada a un motor de ejecución en backend.
+Plataforma construida para digitalizar el proceso de evaluación de desempeño institucional, integrando visualización de datos y generación de reportes que antes se hacían de forma manual.
 
 </details>
 
@@ -138,16 +139,28 @@ FlowBot fue pensado como una alternativa ligera a herramientas de RPA comerciale
 
 ## 💼 Experience
 
-**Practicante / Desarrollador — Automatización de Procesos (RPA)**
-*Fecha por definir*
+**Software Developer** — UTFSM
+*Mar 2025 – Jul 2025*
 
-Desarrollo de bots de automatización con RocketBot para optimizar procesos de negocio repetitivos.
+- Desarrollo de algoritmos para el procesamiento de datos y cálculo de métricas
+- Implementación de soluciones de visualización de datos y generación de reportes diagnósticos
+- Desarrollo de bots RPA utilizando RocketBot para automatizar procesos administrativos
+- Optimización de procesos y generación de informes, aumentando la precisión de los datos y la eficiencia operativa
 
-- Diseño y construcción de flujos de automatización end-to-end
-- Reducción de tareas manuales mediante scripts de RPA
-- Documentación de procesos automatizados
+`Python` `RocketBot` `Data Processing` `RPA`
 
-`RocketBot` `RPA` `Automatización de Procesos`
+<br/>
+
+**Full Stack Developer** — UTFSM
+*Dic 2024 – Feb 2025*
+
+- Desarrollo de una plataforma web para el diagnóstico y evaluación del desempeño institucional
+- Implementación de formularios dinámicos, lógica de negocio y visualización de datos mediante gráficos radiales
+- Desarrollo de funcionalidades Full Stack, integrando frontend, backend y consumo de APIs REST
+- Implementación de autenticación con JSON Web Tokens (JWT)
+- Optimización del procesamiento de datos y generación de reportes para apoyar la toma de decisiones
+
+`React` `Node.js` `JWT` `REST APIs`
 
 <br/>
 
@@ -157,9 +170,10 @@ Desarrollo de bots de automatización con RocketBot para optimizar procesos de n
 
 <div align="center">
 
-| Recognition | Details |
+| Reconocimiento | Detalle |
 |---|---|
-| 🎓 Ingeniería Informática | Universidad Técnica Federico Santa María (2022–2026) |
+| 🎓 Mentor — Iniciativa TechTalent UTFSM | Capacitación en programación y pensamiento computacional para estudiantes de enseñanza media |
+| 👨‍🏫 Ayudante de Programación — UTFSM | Tutoría en Python, algoritmos y estructuras de control para estudiantes universitarios |
 
 </div>
 
@@ -169,9 +183,7 @@ Desarrollo de bots de automatización con RocketBot para optimizar procesos de n
 
 ## 📜 Certifications
 
-**AWS**
-
-![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 <br/>
 
@@ -238,10 +250,10 @@ Learning:
   - Patrones avanzados en React Native
 
 Building:
-  - TaskNet (Gestor de Órdenes de Trabajo)
+  - Aplicación móvil de gestión de órdenes de trabajo
 
 Exploring:
-  - Despliegue y arquitectura en AWS
+  - Servicios y despliegue en AWS
 
 Open To:
   - Roles Backend Developer
@@ -259,8 +271,6 @@ Open To:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6A00F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.ignacio.farias.soto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-farías-9566a7290)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgefariasso)
-[![Portfolio](https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
