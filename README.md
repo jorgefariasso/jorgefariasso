@@ -242,29 +242,6 @@ Plataforma construida para digitalizar el proceso de evaluación de desempeño i
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Arquitecturas backend escalables
-  - Patrones avanzados en React Native
-
-Building:
-  - Aplicación móvil de gestión de órdenes de trabajo
-
-Exploring:
-  - Servicios y despliegue en AWS
-
-Open To:
-  - Roles Backend Developer
-  - Roles Full Stack Developer
-  - Roles Mobile Developer
-```
-
-<br/>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
