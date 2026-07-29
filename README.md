@@ -189,35 +189,6 @@ Plataforma construida para digitalizar el proceso de evaluación de desempeño i
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jorgefariasso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5DEFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgefariasso&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefariasso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5DEFF" width="48%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jorgefariasso&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
