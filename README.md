@@ -64,7 +64,7 @@ Ingeniero Informático de la **Universidad Técnica Federico Santa María**, con
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css&theme=dark" />
 
 **Backend & Bases de Datos**
 
